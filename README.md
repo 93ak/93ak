@@ -1,15 +1,25 @@
-## Hi there 👋
-<!--
-**93ak/93ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, I'm Akshara Sundaresan 👋
 
-Here are some ideas to get you started:
+I like experimenting with code, animation, and visual storytelling, blurring the line between **engineering and creativity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring:
+
+* ✦ Creative development & interactive web experiences (front end development)
+* ✦ Collaboration and CRDT (backend development)
+* ✦ Full-stack development
+
+### currently building
+
+🎞️ Motion-heavy interactive experiences
+🧪 Small creative coding experiments
+⚙️ Full-stack projects & systems work
+
+### tech I use
+
+`C++` `Python` `JavaScript` `React` `FastAPI` `Node.js`
+`GSAP` `Three.js` `WebGL` `PostgreSQL` `MongoDB` `Git`
+
+### elsewhere
+
+[Portfolio](https://akshara-sundaresan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/akshara-sundaresan-77b051329/) · [Email](alp.akshara@gmail.com)
+
